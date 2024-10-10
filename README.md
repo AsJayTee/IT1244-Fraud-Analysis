@@ -1,1 +1,2 @@
-# IT1244-Fraud-Analysis
+# Fraud Analysis Project
+IT1244
