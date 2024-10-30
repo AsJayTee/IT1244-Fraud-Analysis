@@ -16,7 +16,7 @@
                 <mxCell id="42" value="Integrate function into Optuna, to fine-tune hyperparameters of models" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="430.5" y="141" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="Trained the models and identified the best model using the main() function" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="45" value="Train the models and identify the best model using the main() function" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="208" y="141" width="160" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="" style="edgeStyle=none;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="13" target="42">
