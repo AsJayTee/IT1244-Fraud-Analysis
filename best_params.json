@@ -1,1 +1,0 @@
-{"max_depth": 10, "max_delta_step": 1, "learning_rate": 0.31512508847576104, "min_split_loss": 0.04511654833065495, "subsample": 0.8955235654505546, "reg_lambda": 0.23171730105890131, "reg_alpha": 0.2428541968126791, "tree_method": "approx"}
