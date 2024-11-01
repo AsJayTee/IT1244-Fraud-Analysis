@@ -17,6 +17,8 @@ Ensure that you have Python installed on your machine.
    ```bash
    pip install -r requirements.txt
 
-2. Run ```main.ipynb``` to get best parameters for the models and report visualisations.
+2. Replace the paths to invoice.csv and client.csv in the start of ```main.ipynb```.
 
-3. Check best parameters for each model in ```best_params.json```
+3. Run ```main.ipynb``` to get best parameters for the models and report visualisations.
+
+4. Check best parameters for each model in ```best_params.json```
